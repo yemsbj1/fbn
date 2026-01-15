@@ -88,7 +88,7 @@ export default function Login() {
           <h3 className="text-sm text-center text-[#5c5c5c]">All users of our online services are subject to our Privacy Statement and agree to be bound by the Terms of Service.</h3>
         </div>
       </div>
-      <footer className="py-6 text-center">
+      <footer className="p-6 text-center">
         <p className="text-xs text-[#5c5c5c]">© Copyright 2026 F.N.B. Corporation. All Rights Reserved.</p>
       </footer>
     </div>
